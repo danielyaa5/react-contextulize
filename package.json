@@ -1,6 +1,6 @@
 {
   "name": "react-contextulize",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Context Menu implemented in React",
   "main": "modules/index.js",
   "keywords": [
@@ -33,9 +33,7 @@
     "url": "https://github.com/danielyaa5/react-contextulize/issues"
   },
   "homepage": "https://github.com/danielyaa5/react-contextulize",
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "react-dom": "^0.14.0 || ^15.0.0"
