@@ -1,0 +1,14 @@
+reports/
+scripts/
+test/
+.editorconfig
+.eslintrc.yml
+.travis.yml
+ISSUE_TEMPLATE.md
+server.js
+*.config.js
+.jscsrc
+.eslintrc
+.eslintignore
+.travis
+.idea

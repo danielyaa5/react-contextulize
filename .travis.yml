@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - 5
+after_success:
+  - npm run coveralls
+script:
+    - bash ./.travis/deploy.sh
+env:
+  global:
+    - GITHUB_REPO: danielyaa5/react-contextulize
+    - secure:  ""
+
+branches:
+  only:
+    - master
