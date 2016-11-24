@@ -143,7 +143,7 @@ export default class ContextMenu extends Component {
 
                 return (
                     <button
-                        id= { `react-contextmenu-item-${menuItem.item }` }
+                        id= { `react-contextmenu-item-${menuItem.itemId }` }
                         className="react-contextmenu-item"
                         key={ menuItem.itemId }
                         { ...menuItemProps }>
