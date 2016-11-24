@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import ContextMenu from 'src/ContextMenu';
+import ContextMenu from 'src/index';
 
 const MENU_ID = 'simple_context_menu';
 
