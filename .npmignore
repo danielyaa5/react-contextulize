@@ -1,6 +1,7 @@
 reports/
 scripts/
 test/
+examples/
 .editorconfig
 .eslintrc.yml
 .travis.yml
