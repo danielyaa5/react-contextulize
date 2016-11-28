@@ -5,9 +5,9 @@ var webpack = require("webpack");
 module.exports = {
     entry: "./src/index.js",
     output: {
-        filename: "dist/react-contextmenu.js",
+        filename: "dist/react-contextulize.js",
         libraryTarget: 'umd',
-        library: 'ReactContextMenu'
+        library: 'ReactContextulize'
     },
     module: {
         loaders: [
