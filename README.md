@@ -2,7 +2,7 @@
 Context menu component for React
 
 **Installation:**
-`npm i react-contextualize --save`
+`npm i react-contextulize --save`
 
 ##Demos
 To run demos locally, clone the repo, `npm install`, and `npm start`. 
