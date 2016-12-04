@@ -16,7 +16,7 @@ Codepens
 
 ##Usage
 
-First, import the `ContextMenu` into your project with `import ContextMenu from 'ReactContextulize'`.
+First, import the `ContextMenu` into your project with `import ContextMenu from 'react-contextulize'`.
 Now you can use the the ContextMenu component in JSX like so `<ContextMenu />`, 
 but your going to want to add props to configure your menu.
 
